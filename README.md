@@ -6,6 +6,15 @@ PBJ
 
 
 First PBJ try.
+ 
+
+## Installation:
+
+```
+git clone https://github.com/bem4solvation/PBJ
+cd PBJ
+pip install .
+```
 
 ### Copyright
 
